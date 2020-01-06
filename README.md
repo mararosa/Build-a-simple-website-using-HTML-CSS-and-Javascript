@@ -1,6 +1,6 @@
 # Build-a-simple-website-using-HTML-CSS-and-Javascript
 
-In this mudule I learned: 
+**In this module I learned:**
 
 * Setup your developer environment
 * Create the files for a website
